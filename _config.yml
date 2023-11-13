@@ -39,7 +39,7 @@ links:
      # THREADS.NET
   - Name: Threads
     URL: https://threads.net/
-    Username: iamindranildutta
+    Username: '@iamindranildutta'
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
@@ -53,8 +53,8 @@ links:
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/@
-    Username: DishaAndNil
+    URL: https://www.youtube.com/
+    Username: '@DishaAndNil'
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
@@ -147,7 +147,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'yes'
+footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 

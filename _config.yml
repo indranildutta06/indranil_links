@@ -38,7 +38,7 @@ links:
 
      # THREADS.NET
   - Name: Threads
-    URL: https://threads.net/
+    URL: https://threads.net
     Username: '@iamindranildutta'
     Color: '#000000'
     Icon-Class: fa-solid fa-at
@@ -53,7 +53,7 @@ links:
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/
+    URL: https://www.youtube.com
     Username: '@DishaAndNil'
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
